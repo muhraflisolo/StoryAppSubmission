@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StoryAppSubmission</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Mau berbagi cerita bersama, share kegiatan keseharaianmu keorang lain?Pakai StoryApp aja</string>
+    <string name="title_welcome_page">Selamat datang di StoryApp</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sebelum Update Story</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Bersenang Senang :).</string>
+    <string name="greeting">Halo Hai,</string>
+    <string name="logout">Keluar</string>
+</resources>
